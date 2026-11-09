@@ -1,0 +1,6 @@
+.venv/
+.idea/
+fathom-lute-midi.build/
+fathom-lute-midi.dist/
+fathom-lute-midi.onefile-build/
+fathom-lute-midi.exe
